@@ -1,0 +1,4 @@
+dejo link de mi repositorio:
+----en la rama llama LAB02 se encuentra la solucion al laboratorio
+
+https://github.com/engelsruiz09/LAB01-EDII/tree/LAB02

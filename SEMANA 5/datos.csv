@@ -1,0 +1,251 @@
+INSERT;{"name":"Luis","dpi":"12345678901234","dateBirth":"1987-09-20", "address":"123 Main St, Mexico City"}
+INSERT;{"name":"Sophia","dpi":"23456789012345","dateBirth":"1995-03-12", "address":"456 Elm Ave, Bogota"}
+PATCH;{"name":"Luis H", "dpi":"12345678901234","dateBirth":"1990-07-15"}
+PATCH;{"name":"Sophia R", "dpi":"23456789012345", "address":"789 Oak Rd, Medellin"}
+INSERT;{"name":"Carlos","dpi":"34567890123456","dateBirth":"1978-12-01", "address":"567 Pine St, Lima"}
+INSERT;{"name":"Elen","dpi":"45678901234567","dateBirth":"1982-05-25", "address":"789 Maple Ave, Quito"}
+DELETE;{"name":"Luis","dpi":"12345678901234"}
+INSERT;{"name":"Diego","dpi":"56789012345678","dateBirth":"1999-02-18", "address":"890 Cedar Rd, Santiago"}
+INSERT;{"name":"Isabel","dpi":"67890123456789","dateBirth":"1989-11-07", "address":"123 Palm Ave, Buenos Aires"}
+PATCH;{"name":"Elen", "dpi":"45678901234567","address":"987 Pine St, Guayaquil"}
+DELETE;{"name":"Isabel","dpi":"67890123456789"}
+INSERT;{"name":"Andres","dpi":"78901234567890","dateBirth":"2000-08-30", "address":"345 Oak Rd, Montevideo"}
+INSERT;{"name":"Valentina","dpi":"89012345678901","dateBirth":"1975-06-14", "address":"678 Elm Ave, Asuncion"}
+PATCH;{"name":"Andres", "dpi":"78901234567890","dateBirth":"2002-04-10"}
+DELETE;{"name":"Andres","dpi":"78901234567890"}
+INSERT;{"name":"Martina","dpi":"90123456789012","dateBirth":"1991-10-23", "address":"890 Maple Ave, La Paz"}
+INSERT;{"name":"Javier","dpi":"12345678901234","dateBirth":"1984-09-05", "address":"567 Palm Ave, Caracas"}
+PATCH;{"name":"Martina", "dpi":"90123456789012","address":"123 Pine St, Sucre"}
+DELETE;{"name":"Javier","dpi":"12345678901234"}
+INSERT;{"name":"Carmen","dpi":"23456789012345","dateBirth":"1993-12-07", "address":"234 Elm Ave, Lima"}
+INSERT;{"name":"Santiago","dpi":"34567890123456","dateBirth":"1983-02-19", "address":"456 Oak Rd, Santiago"}
+PATCH;{"name":"Carmen", "dpi":"23456789012345","dateBirth":"1998-05-28"}
+DELETE;{"name":"Carmen","dpi":"23456789012345"}
+INSERT;{"name":"Mateo","dpi":"45678901234567","dateBirth":"2001-07-15", "address":"567 Pine St, Buenos Aires"}
+INSERT;{"name":"Emil","dpi":"56789012345678","dateBirth":"1977-11-09", "address":"678 Elm Ave, Quito"}
+PATCH;{"name":"Mateo", "dpi":"45678901234567","address":"789 Oak Rd, La Paz"}
+DELETE;{"name":"Mateo","dpi":"45678901234567"}
+INSERT;{"name":"A","dpi":"67890123456789","dateBirth":"1986-04-26", "address":"123 Maple Ave, Bogota"}
+INSERT;{"name":"Daniel","dpi":"78901234567890","dateBirth":"1997-03-08", "address":"234 Oak Rd, Caracas"}
+PATCH;{"name":"Ana", "dpi":"67890123456789","dateBirth":"1990-09-12"}
+DELETE;{"name":"Ana","dpi":"67890123456789"}
+INSERT;{"name":"Camila","dpi":"89012345678901","dateBirth":"2002-08-17", "address":"345 Elm Ave, Buenos Aires"}
+INSERT;{"name":"Jose","dpi":"90123456789012","dateBirth":"1974-01-31", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Camila", "dpi":"89012345678901","address":"567 Oak Rd, Montevideo"}
+DELETE;{"name":"Camila","dpi":"89012345678901"}
+INSERT;{"name":"Lucas","dpi":"12345678901234","dateBirth":"1994-05-22", "address":"678 Elm Ave, Quito"}
+INSERT;{"name":"Valeria","dpi":"23456789012345","dateBirth":"1980-06-13", "address":"789 Pine St, Caracas"}
+PATCH;{"name":"Lucas", "dpi":"12345678901234","address":"890 Oak Rd, Asuncion"}
+DELETE;{"name":"Lucas","dpi":"12345678901234"}
+INSERT;{"name":"Isaac","dpi":"34567890123456","dateBirth":"1998-09-04", "address":"123 Maple Ave, La Paz"}
+INSERT;{"name":"Ximena","dpi":"45678901234567","dateBirth":"1979-11-25", "address":"234 Oak Rd, Bogota"}
+PATCH;{"name":"Isaac", "dpi":"34567890123456","dateBirth":"2003-01-18"}
+DELETE;{"name":"Isaac","dpi":"34567890123456"}
+INSERT;{"name":"Diana","dpi":"56789012345678","dateBirth":"1988-02-27", "address":"345 Elm Ave, Santiago"}
+INSERT;{"name":"Gabriela","dpi":"67890123456789","dateBirth":"1976-12-11", "address":"456 Pine St, Caracas"}
+PATCH;{"name":"Diana", "dpi":"56789012345678","address":"567 Oak Rd, Montevideo"}
+DELETE;{"name":"Diana","dpi":"56789012345678"}
+INSERT;{"name":"Mariana","dpi":"78901234567890","dateBirth":"2000-10-16", "address":"678 Elm Ave, Lima"}
+INSERT;{"name":"Sebastian","dpi":"89012345678901","dateBirth":"1981-07-28", "address":"789 Oak Rd, Santiago"}
+PATCH;{"name":"Mariana", "dpi":"78901234567890","address":"123 Pine St, Buenos Aires"}
+DELETE;{"name":"Mariana","dpi":"78901234567890"}
+INSERT;{"name":"Alejandro","dpi":"90123456789012","dateBirth":"1992-03-09", "address":"123 Maple Ave, Quito"}
+INSERT;{"name":"Juliana","dpi":"12345678901234","dateBirth":"1973-12-03", "address":"234 Oak Rd, Bogota"}
+PATCH;{"name":"Alejandro", "dpi":"90123456789012","dateBirth":"1996-06-26"}
+DELETE;{"name":"Alejandro","dpi":"90123456789012"}
+INSERT;{"name":"Catalina","dpi":"23456789012345","dateBirth":"2001-05-18", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Juan","dpi":"34567890123456","dateBirth":"1978-09-11", "address":"456 Pine St, Buenos Aires"}
+PATCH;{"name":"Catalina", "dpi":"23456789012345","address":"567 Oak Rd, Santiago"}
+DELETE;{"name":"Catalina","dpi":"23456789012345"}
+INSERT;{"name":"Diego","dpi":"45678901234567","dateBirth":"1997-08-03", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Maria","dpi":"56789012345678","dateBirth":"1985-01-21", "address":"789 Oak Rd, Lima"}
+PATCH;{"name":"Diego", "dpi":"45678901234567","address":"123 Pine St, Quito"}
+DELETE;{"name":"Diego","dpi":"45678901234567"}
+INSERT;{"name":"Laura","dpi":"67890123456789","dateBirth":"1999-09-14", "address":"123 Maple Ave, Santiago"}
+INSERT;{"name":"Rafael","dpi":"78901234567890","dateBirth":"1977-03-02", "address":"234 Oak Rd, Caracas"}
+PATCH;{"name":"Laura", "dpi":"67890123456789","dateBirth":"2002-12-08"}
+DELETE;{"name":"Laura","dpi":"67890123456789"}
+INSERT;{"name":"Fernando","dpi":"89012345678901","dateBirth":"1984-06-27", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Adriana","dpi":"90123456789012","dateBirth":"1970-04-09", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Fernando", "dpi":"89012345678901","address":"567 Oak Rd, Buenos Aires"}
+DELETE;{"name":"Fernando","dpi":"89012345678901"}
+INSERT;{"name":"Marcela","dpi":"12345678901234","dateBirth":"2001-03-22", "address":"678 Elm Ave, Bogota"}
+INSERT;{"name":"Gonzalo","dpi":"23456789012345","dateBirth":"1983-02-15", "address":"789 Oak Rd, Caracas"}
+PATCH;{"name":"Marcela", "dpi":"12345678901234","address":"123 Pine St, Montevideo"}
+DELETE;{"name":"Marcela","dpi":"12345678901234"}
+INSERT;{"name":"Bianca","dpi":"34567890123456","dateBirth":"1996-11-10", "address":"123 Maple Ave, Buenos Aires"}
+INSERT;{"name":"Felipe","dpi":"45678901234567","dateBirth":"1982-10-29", "address":"234 Oak Rd, Santiago"}
+PATCH;{"name":"Bianca", "dpi":"34567890123456","dateBirth":"2000-01-03"}
+DELETE;{"name":"Bianca","dpi":"34567890123456"}
+INSERT;{"name":"Renata","dpi":"56789012345678","dateBirth":"1987-07-12", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Hector ","dpi":"67890123456789","dateBirth":"1971-05-26", "address":"456 Pine St, Quito"}
+PATCH;{"name":"Renata", "dpi":"56789012345678","address":"567 Oak Rd, Santiago"}
+DELETE;{"name":"Renata","dpi":"56789012345678"}
+INSERT;{"name":"Miguel","dpi":"78901234567890","dateBirth":"1995-04-19", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Antonia","dpi":"89012345678901","dateBirth":"1978-06-30", "address":"789 Oak Rd, Santiago"}
+PATCH;{"name":"Miguel", "dpi":"78901234567890","address":"123 Pine St, Montevideo"}
+DELETE;{"name":"Miguel","dpi":"78901234567890"}
+INSERT;{"name":"Cristian","dpi":"90123456789012","dateBirth":"2000-08-24", "address":"345 Elm Ave, Buenos Aires"}
+INSERT;{"name":"Natalia","dpi":"12345678901234","dateBirth":"1985-09-14", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Cristian", "dpi":"90123456789012","dateBirth":"2003-11-18"}
+DELETE;{"name":"Cristian","dpi":"90123456789012"}
+INSERT;{"name":"Mariano","dpi":"23456789012345","dateBirth":"1992-10-13", "address":"123 Maple Ave, Lima"}
+INSERT;{"name":"Alejandra","dpi":"34567890123456","dateBirth":"1976-01-17", "address":"234 Oak Rd, Montevideo"}
+PATCH;{"name":"Mariano", "dpi":"23456789012345","address":"567 Pine St, Buenos Aires"}
+DELETE;{"name":"Mariano","dpi":"23456789012345"}
+INSERT;{"name":"Julio","dpi":"45678901234567","dateBirth":"1993-12-08", "address":"678 Elm Ave, Santiago"}
+INSERT;{"name":"Gabriela","dpi":"56789012345678","dateBirth":"1981-11-01", "address":"789 Oak Rd, Quito"}
+PATCH;{"name":"Julio", "dpi":"45678901234567","dateBirth":"1998-02-25"}
+DELETE;{"name":"Julio","dpi":"45678901234567"}
+INSERT;{"name":"Patricia","dpi":"67890123456789","dateBirth":"2002-07-19", "address":"345 Elm Ave, Caracas"}
+INSERT;{"name":"Federico","dpi":"78901234567890","dateBirth":"1979-03-03", "address":"456 Pine St, Buenos Aires"}
+PATCH;{"name":"Patricia", "dpi":"67890123456789","address":"567 Oak Rd, Santiago"}
+DELETE;{"name":"Patricia","dpi":"67890123456789"}
+INSERT;{"name":"Carla","dpi":"89012345678901","dateBirth":"1984-06-22", "address":"678 Elm Ave, Lima"}
+INSERT;{"name":"Rodrigo","dpi":"90123456789012","dateBirth":"1974-09-12", "address":"789 Oak Rd, Santiago"}
+PATCH;{"name":"Carla", "dpi":"89012345678901","dateBirth":"1990-01-06"}
+DELETE;{"name":"Carla","dpi":"89012345678901"}
+INSERT;{"name":"Jorge","dpi":"12345678901234","dateBirth":"2000-02-02", "address":"123 Maple Ave, Buenos Aires"}
+INSERT;{"name":"Sara","dpi":"23456789012345","dateBirth":"1986-05-09", "address":"234 Oak Rd, Santiago"}
+PATCH;{"name":"Jorge", "dpi":"12345678901234","address":"567 Pine St, Caracas"}
+DELETE;{"name":"Jorge","dpi":"12345678901234"}
+INSERT;{"name":"Manuel","dpi":"34567890123456","dateBirth":"1991-11-28", "address":"345 Elm Ave, Quito"}
+INSERT;{"name":"Lorena","dpi":"45678901234567","dateBirth":"1975-07-21", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Manuel", "dpi":"34567890123456","dateBirth":"1997-04-15"}
+DELETE;{"name":"Manuel","dpi":"34567890123456"}
+INSERT;{"name":"Monica","dpi":"56789012345678","dateBirth":"1998-10-17", "address":"123 Maple Ave, Caracas"}
+INSERT;{"name":"Pedro","dpi":"67890123456789","dateBirth":"1988-12-19", "address":"234 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Monica", "dpi":"56789012345678","address":"567 Pine St, Santiago"}
+DELETE;{"name":"Monica","dpi":"56789012345678"}
+INSERT;{"name":"Raul","dpi":"78901234567890","dateBirth":"2001-04-11", "address":"345 Elm Ave, Lima"}
+INSERT;{"name":"Eva","dpi":"89012345678901","dateBirth":"1983-06-23", "address":"456 Pine St, Quito"}
+PATCH;{"name":"Raul", "dpi":"78901234567890","dateBirth":"2004-09-27"}
+DELETE;{"name":"Raul","dpi":"78901234567890"}
+INSERT;{"name":"Lilian","dpi":"90123456789012","dateBirth":"1992-08-25", "address":"678 Elm Ave, Santiago"}
+INSERT;{"name":"Pablo","dpi":"12345678901234","dateBirth":"1978-01-07", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Lilian", "dpi":"90123456789012","address":"123 Pine St, Quito"}
+DELETE;{"name":"Lilian","dpi":"90123456789012"}
+INSERT;{"name":"Tomas","dpi":"23456789012345","dateBirth":"1997-02-28", "address":"345 Elm Ave, Caracas"}
+INSERT;{"name":"Silvia","dpi":"34567890123456","dateBirth":"1989-04-10", "address":"456 Pine St, Lima"}
+PATCH;{"name":"Tomas", "dpi":"23456789012345","dateBirth":"2000-12-15"}
+DELETE;{"name":"Tomas","dpi":"23456789012345"}
+INSERT;{"name":"Julieta","dpi":"45678901234567","dateBirth":"2001-09-21", "address":"123 Maple Ave, Santiago"}
+INSERT;{"name":"Gustavo","dpi":"56789012345678","dateBirth":"1980-08-14", "address":"234 Oak Rd, Caracas"}
+PATCH;{"name":"Julieta", "dpi":"45678901234567","address":"567 Pine St, Buenos Aires"}
+DELETE;{"name":"Julieta","dpi":"45678901234567"}
+INSERT;{"name":"Ramiro","dpi":"67890123456789","dateBirth":"1999-10-23", "address":"345 Elm Ave, Quito"}
+INSERT;{"name":"Ana","dpi":"78901234567890","dateBirth":"1972-01-26", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Ramiro", "dpi":"67890123456789","dateBirth":"2002-03-18"}
+DELETE;{"name":"Ramiro","dpi":"67890123456789"}
+INSERT;{"name":"Luisa","dpi":"89012345678901","dateBirth":"1986-11-12", "address":"678 Elm Ave, Montevideo"}
+INSERT;{"name":"Roberto","dpi":"90123456789012","dateBirth":"1973-10-03", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Luisa", "dpi":"89012345678901","address":"123 Pine St, Santiago"}
+DELETE;{"name":"Luisa","dpi":"89012345678901"}
+INSERT;{"name":"Alejandro","dpi":"12345678901234","dateBirth":"2000-01-15", "address":"345 Elm Ave, Quito"}
+INSERT;{"name":"Monica","dpi":"23456789012345","dateBirth":"1984-07-07", "address":"234 Oak Rd, Santiago"}
+PATCH;{"name":"Alejandro", "dpi":"12345678901234","dateBirth":"2003-04-28"}
+DELETE;{"name":"Alejandro","dpi":"12345678901234"}
+INSERT;{"name":"Vanessa","dpi":"34567890123456","dateBirth":"1995-06-19", "address":"123 Maple Ave, Buenos Aires"}
+INSERT;{"name":"Christian","dpi":"45678901234567","dateBirth":"1978-08-30", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Vanessa", "dpi":"34567890123456","address":"567 Pine St, Caracas"}
+DELETE;{"name":"Vanessa","dpi":"34567890123456"}
+INSERT;{"name":"Carolina","dpi":"56789012345678","dateBirth":"1996-09-14", "address":"678 Elm Ave, Montevideo"}
+INSERT;{"name":"Ricardo","dpi":"67890123456789","dateBirth":"1982-03-26", "address":"789 Oak Rd, Santiago"}
+PATCH;{"name":"Carolina", "dpi":"56789012345678","dateBirth":"1999-12-08"}
+DELETE;{"name":"Carolina","dpi":"56789012345678"}
+INSERT;{"name":"Federico","dpi":"78901234567890","dateBirth":"2001-07-23", "address":"345 Elm Ave, Buenos Aires"}
+INSERT;{"name":"Valentina","dpi":"89012345678901","dateBirth":"1977-11-05", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Federico", "dpi":"78901234567890","address":"567 Pine St, Caracas"}
+DELETE;{"name":"Federico","dpi":"78901234567890"}
+INSERT;{"name":"Mariana","dpi":"90123456789012","dateBirth":"1983-12-16", "address":"678 Elm Ave, Quito"}
+INSERT;{"name":"Sebastian","dpi":"12345678901234","dateBirth":"1979-01-29", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Mariana", "dpi":"90123456789012","dateBirth":"1990-04-12"}
+DELETE;{"name":"Mariana","dpi":"90123456789012"}
+INSERT;{"name":"Isabella","dpi":"23456789012345","dateBirth":"2000-05-21", "address":"123 Maple Ave, Montevideo"}
+INSERT;{"name":"Andres","dpi":"34567890123456","dateBirth":"1985-02-11", "address":"234 Oak Rd, Caracas"}
+PATCH;{"name":"Isabella", "dpi":"23456789012345","address":"567 Pine St, Santiago"}
+DELETE;{"name":"Isabella","dpi":"23456789012345"}
+INSERT;{"name":"Juan","dpi":"45678901234567","dateBirth":"1999-03-13", "address":"345 Elm Ave, Buenos Aires"}
+INSERT;{"name":"Maria","dpi":"56789012345678","dateBirth":"1975-04-06", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Juan", "dpi":"45678901234567","dateBirth":"2003-08-28"}
+DELETE;{"name":"Juan","dpi":"45678901234567"}
+INSERT;{"name":"Valeria","dpi":"67890123456789","dateBirth":"2002-09-15", "address":"678 Elm Ave, Quito"}
+INSERT;{"name":"Carlos","dpi":"78901234567890","dateBirth":"1972-06-09", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Valeria", "dpi":"67890123456789","address":"123 Pine St, Caracas"}
+DELETE;{"name":"Valeria","dpi":"67890123456789"}
+INSERT;{"name":"Andrea","dpi":"89012345678901","dateBirth":"1986-07-10", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Jorge","dpi":"90123456789012","dateBirth":"1974-09-03", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Andrea", "dpi":"89012345678901","dateBirth":"1991-02-16"}
+DELETE;{"name":"Andrea","dpi":"89012345678901"}
+INSERT;{"name":"Gabriela","dpi":"12345678901234","dateBirth":"1997-08-19", "address":"123 Maple Ave, Caracas"}
+INSERT;{"name":"Alejandro","dpi":"23456789012345","dateBirth":"1989-10-11", "address":"234 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Gabriela", "dpi":"12345678901234","address":"567 Pine St, Santiago"}
+DELETE;{"name":"Gabriela","dpi":"12345678901234"}
+INSERT;{"name":"Roberto","dpi":"34567890123456","dateBirth":"2001-11-23", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Laura","dpi":"45678901234567","dateBirth":"1977-12-15", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Roberto", "dpi":"34567890123456","dateBirth":"2004-03-05"}
+DELETE;{"name":"Roberto","dpi":"34567890123456"}
+INSERT;{"name":"Diana","dpi":"56789012345678","dateBirth":"1999-01-07", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Mauricio","dpi":"67890123456789","dateBirth":"1973-02-29", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Diana", "dpi":"56789012345678","dateBirth":"2002-06-12"}
+DELETE;{"name":"Diana","dpi":"56789012345678"}
+INSERT;{"name":"Eduardo","dpi":"78901234567890","dateBirth":"2000-07-24", "address":"345 Elm Ave, Santiago"}
+INSERT;{"name":"Fernanda","dpi":"89012345678901","dateBirth":"1982-08-16", "address":"456 Pine St, Montevideo"}
+PATCH;{"name":"Eduardo", "dpi":"78901234567890","address":"567 Pine St, Caracas"}
+DELETE;{"name":"Eduardo","dpi":"78901234567890"}
+INSERT;{"name":"Isabel","dpi":"90123456789012","dateBirth":"1991-09-18", "address":"678 Elm Ave, Quito"}
+INSERT;{"name":"Ramon","dpi":"12345678901234","dateBirth":"1979-10-20", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Isabel", "dpi":"90123456789012","address":"123 Pine St, Santiago"}
+DELETE;{"name":"Isabel","dpi":"90123456789012"}
+INSERT;{"name":"Luis","dpi":"23456789012345","dateBirth":"2002-12-22", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Carmen","dpi":"34567890123456","dateBirth":"1975-01-24", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Luis", "dpi":"23456789012345","dateBirth":"2005-05-09"}
+DELETE;{"name":"Luis","dpi":"23456789012345"}
+INSERT;{"name":"Ana","dpi":"45678901234567","dateBirth":"1994-03-17", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Manuel ","dpi":"56789012345678","dateBirth":"1981-04-14", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Ana", "dpi":"45678901234567","address":"567 Pine St, Santiago"}
+DELETE;{"name":"Ana","dpi":"45678901234567"}
+INSERT;{"name":"Cristina","dpi":"67890123456789","dateBirth":"1996-02-11", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Javier","dpi":"78901234567890","dateBirth":"1973-03-29", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Cristina", "dpi":"67890123456789","dateBirth":"2001-10-25"}
+DELETE;{"name":"Cristina","dpi":"67890123456789"}
+INSERT;{"name":"Sebastian","dpi":"89012345678901","dateBirth":"1985-05-21", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Valentina","dpi":"90123456789012","dateBirth":"1974-06-16", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Sebastian", "dpi":"89012345678901","address":"123 Pine St, Santiago"}
+DELETE;{"name":"Sebastian","dpi":"89012345678901"}
+INSERT;{"name":"Gabriel","dpi":"12345678901234","dateBirth":"1997-07-20", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Laura","dpi":"23456789012345","dateBirth":"1989-08-11", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Gabriel", "dpi":"12345678901234","dateBirth":"2002-09-30"}
+DELETE;{"name":"Gabriel","dpi":"12345678901234"}
+INSERT;{"name":"Mariana","dpi":"34567890123456","dateBirth":"2001-10-05", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Andres","dpi":"45678901234567","dateBirth":"1978-11-26", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Mariana", "dpi":"34567890123456","address":"567 Pine St, Santiago"}
+DELETE;{"name":"Mariana","dpi":"34567890123456"}
+INSERT;{"name":"Sofia","dpi":"56789012345678","dateBirth":"2002-01-15", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Diego","dpi":"67890123456789","dateBirth":"1972-02-11", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Sofia", "dpi":"56789012345678","dateBirth":"2005-05-01"}
+DELETE;{"name":"Sofia","dpi":"56789012345678"}
+INSERT;{"name":"Daniel","dpi":"78901234567890","dateBirth":"1993-03-22", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Maria","dpi":"89012345678901","dateBirth":"1981-04-14", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Daniel", "dpi":"78901234567890","address":"123 Pine St, Santiago"}
+DELETE;{"name":"Daniel","dpi":"78901234567890"}
+INSERT;{"name":"Carolina","dpi":"90123456789012","dateBirth":"2000-05-17", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Andres","dpi":"12345678901234","dateBirth":"1979-06-12", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Carolina", "dpi":"90123456789012","dateBirth":"2003-09-28"}
+DELETE;{"name":"Carolina","dpi":"90123456789012"}
+INSERT;{"name":"Ricardo","dpi":"23456789012345","dateBirth":"1998-10-19", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Camila","dpi":"34567890123456","dateBirth":"1985-11-13", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Ricardo", "dpi":"23456789012345","address":"567 Pine St, Santiago"}
+DELETE;{"name":"Ricardo","dpi":"23456789012345"}
+INSERT;{"name":"Valentina","dpi":"45678901234567","dateBirth":"2001-12-18", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Javier","dpi":"56789012345678","dateBirth":"1979-01-29", "address":"456 Pine St, Buenos Aires"}
+PATCH;{"name":"Valentina", "dpi":"45678901234567","dateBirth":"2004-04-12"}
+DELETE;{"name":"Valentina","dpi":"45678901234567"}
+INSERT;{"name":"Mariano","dpi":"67890123456789","dateBirth":"1993-05-21", "address":"678 Elm Ave, Caracas"}
+INSERT;{"name":"Sara","dpi":"78901234567890","dateBirth":"1974-06-16", "address":"789 Oak Rd, Buenos Aires"}
+PATCH;{"name":"Mariano", "dpi":"67890123456789","address":"123 Pine St, Santiago"}
+DELETE;{"name":"Mariano","dpi":"67890123456789"}
+INSERT;{"name":"Lucas","dpi":"89012345678901","dateBirth":"1994-07-20", "address":"345 Elm Ave, Montevideo"}
+INSERT;{"name":"Valeria","dpi":"90123456789012","dateBirth":"1989-08-11", "address":"456 Pine St, Santiago"}
+PATCH;{"name":"Lucas", "dpi":"89012345678901","dateBirth":"1999-09-30"}
+DELETE;{"name":"Lucas","dpi":"89012345678901"}
